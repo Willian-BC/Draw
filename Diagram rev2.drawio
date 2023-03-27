@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T15:03:19.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.51" etag="fOTDuXNSZbn7EhY9o01z" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T19:00:58.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.51" etag="CVw2VI4Ko6uwgcdjHoLr" version="21.1.1" type="github">
   <diagram id="IMoWFRzWkRb1YAJqIgc9" name="Page-1">
-    <mxGraphModel dx="4504" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
+    <mxGraphModel dx="1982" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="nKnNB21cNStt8jU2whA4-52" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Kick-off técnico&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="REOEvnUnP1cKmhOiyPTP-2" vertex="1">
           <mxGeometry x="1940" y="102.76" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XgBZHDR8JV6FvFQxuWRU-1" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Publicação FO para&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;análise de risco&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="REOEvnUnP1cKmhOiyPTP-2" vertex="1">
+        <mxCell id="XgBZHDR8JV6FvFQxuWRU-1" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Cadastro projeto RMA para&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;análise de risco&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="REOEvnUnP1cKmhOiyPTP-2" vertex="1">
           <mxGeometry x="1390" y="102.76" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="75cfZj7-eQxO16BHJha4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="REOEvnUnP1cKmhOiyPTP-2" source="XgBZHDR8JV6FvFQxuWRU-29" target="75cfZj7-eQxO16BHJha4-1" edge="1">
