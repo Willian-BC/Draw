@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T17:13:17.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="UKhCfwgczzK7Y9RmeWwg" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T17:14:29.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="8czR8pzTjdJyB-geXsiU" version="21.1.1" type="github">
   <diagram id="IMoWFRzWkRb1YAJqIgc9" name="Page-1">
     <mxGraphModel dx="2286" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="REOEvnUnP1cKmhOiyPTP-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Padronização de resposta de capabilidade MMT&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="REOEvnUnP1cKmhOiyPTP-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Fluxo de retrabalho do anel BX&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="2730" height="1278" as="geometry">
             <mxRectangle x="110" y="90" width="40" height="60" as="alternateBounds" />
           </mxGeometry>
