@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T13:15:28.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="zdZLAiYA62CAK0kpxdVo" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T13:16:56.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="QGl_GSYpol0Lcuu5982E" version="21.1.1" type="github">
   <diagram id="IMoWFRzWkRb1YAJqIgc9" name="Page-1">
-    <mxGraphModel dx="2814" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
+    <mxGraphModel dx="2286" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
         <mxCell id="rvxUXU9-gEQZc84r86SE-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-3" source="rvxUXU9-gEQZc84r86SE-29" target="rvxUXU9-gEQZc84r86SE-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-29" value="Solicitar ao PLM entrega do anel BX" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
+        <mxCell id="rvxUXU9-gEQZc84r86SE-29" value="Solicitar ao PLM entrega do anel BX em estoque" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
           <mxGeometry x="660" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-3" source="rvxUXU9-gEQZc84r86SE-31" target="rvxUXU9-gEQZc84r86SE-29">
