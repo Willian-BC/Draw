@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T13:16:56.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="QGl_GSYpol0Lcuu5982E" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T14:30:32.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="0z8iNm5zcICMp91rgIqt" version="21.1.1" type="github">
   <diagram id="IMoWFRzWkRb1YAJqIgc9" name="Page-1">
-    <mxGraphModel dx="2286" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
+    <mxGraphModel dx="1829" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="REOEvnUnP1cKmhOiyPTP-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Padronização de resposta de capabilidade MMT&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="2360" height="1210" as="geometry">
+          <mxGeometry x="10" y="10" width="2360" height="1212" as="geometry">
             <mxRectangle x="110" y="90" width="40" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -74,7 +74,7 @@
             <mxPoint x="1510" y="127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Convocar CQ para inspeção do anel BX&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
+        <mxCell id="rvxUXU9-gEQZc84r86SE-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Convocar CQ para inspeção do anel BX e incluir info. relatório teste&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
           <mxGeometry x="1360" y="102" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-2" source="rvxUXU9-gEQZc84r86SE-24" target="rvxUXU9-gEQZc84r86SE-26">
@@ -92,23 +92,19 @@
         <mxCell id="rvxUXU9-gEQZc84r86SE-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Abertura de NC&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
           <mxGeometry x="380" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-2" source="rvxUXU9-gEQZc84r86SE-58" target="rvxUXU9-gEQZc84r86SE-59">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rvxUXU9-gEQZc84r86SE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-2" source="rvxUXU9-gEQZc84r86SE-58" target="rvxUXU9-gEQZc84r86SE-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="226.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-58" value="Recebimento do anel Bx na pré-montagem" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
-          <mxGeometry x="1080" y="180" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-2" source="rvxUXU9-gEQZc84r86SE-59" target="rvxUXU9-gEQZc84r86SE-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-59" value="Atualização do relatório de teste" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
-          <mxGeometry x="1220" y="180" width="100" height="50" as="geometry" />
+          <mxGeometry x="1080" y="201" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-2" source="rvxUXU9-gEQZc84r86SE-62" target="rvxUXU9-gEQZc84r86SE-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-62" value="Entrega do novo anel Bx no teste" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
-          <mxGeometry x="1360" y="180" width="100" height="50" as="geometry" />
+          <mxGeometry x="1360" y="201" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-2" target="rvxUXU9-gEQZc84r86SE-21">
           <mxGeometry relative="1" as="geometry">
@@ -146,28 +142,43 @@
         <mxCell id="rvxUXU9-gEQZc84r86SE-84" value="Aprovado" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#eeaaaa;strokeColor=#9f0d0d;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
           <mxGeometry x="2260" y="112" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-85" value="Indice de falha 55%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
-          <mxGeometry x="220" y="162" width="130" height="30" as="geometry" />
+        <mxCell id="rvxUXU9-gEQZc84r86SE-85" value="Indice de falha 55% &lt;br&gt;*com base em dados de 2022" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
+          <mxGeometry x="195" y="157" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-86" value="Indice de falha 0%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
           <mxGeometry x="2100" y="162" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rvxUXU9-gEQZc84r86SE-96" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FLUXO INTELEX&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;strokeWidth=0;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-2">
+          <mxGeometry x="470" y="190" width="150" height="72" as="geometry" />
+        </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-53" value="PLM" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-1">
-          <mxGeometry x="20" y="320" width="2340" height="170" as="geometry">
+          <mxGeometry x="20" y="320" width="2340" height="172" as="geometry">
             <mxRectangle x="20" width="650" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rvxUXU9-gEQZc84r86SE-53" source="rvxUXU9-gEQZc84r86SE-47" target="rvxUXU9-gEQZc84r86SE-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-47" value="Recebimento do novo anel BX no estoque PLM&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rvxUXU9-gEQZc84r86SE-53">
-          <mxGeometry x="920" y="50" width="100" height="50" as="geometry" />
+        <mxCell id="rvxUXU9-gEQZc84r86SE-47" value="Incluir anel BX em ordem do tramo (SLIP) e solicitar o envio&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rvxUXU9-gEQZc84r86SE-53">
+          <mxGeometry x="920" y="20" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-54" value="Disponibilizar anel BX" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rvxUXU9-gEQZc84r86SE-53">
-          <mxGeometry x="1080" y="50" width="100" height="50" as="geometry" />
+          <mxGeometry x="1080" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rvxUXU9-gEQZc84r86SE-97" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;RETIRAR O ANEL BX DE OUTRO PROJETO Avaliar se tem sobra ou switch&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;strokeWidth=0;" vertex="1" parent="rvxUXU9-gEQZc84r86SE-53">
+          <mxGeometry x="550" y="110" width="150" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="rvxUXU9-gEQZc84r86SE-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="rvxUXU9-gEQZc84r86SE-53" source="rvxUXU9-gEQZc84r86SE-99" target="rvxUXU9-gEQZc84r86SE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rvxUXU9-gEQZc84r86SE-99" value="Recebimento e cadastro novo anel" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rvxUXU9-gEQZc84r86SE-53">
+          <mxGeometry x="920" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rvxUXU9-gEQZc84r86SE-107" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Conferência / Cadastro da NF pelo time de custos&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;strokeWidth=0;" vertex="1" parent="rvxUXU9-gEQZc84r86SE-53">
+          <mxGeometry x="1010" y="100" width="150" height="72" as="geometry" />
         </mxCell>
         <mxCell id="REOEvnUnP1cKmhOiyPTP-3" value="ADAF" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="REOEvnUnP1cKmhOiyPTP-1" vertex="1">
-          <mxGeometry x="20" y="490" width="2340" height="200" as="geometry">
+          <mxGeometry x="20" y="492" width="2340" height="200" as="geometry">
             <mxRectangle x="20" y="80" width="880" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -180,7 +191,7 @@
         <mxCell id="rvxUXU9-gEQZc84r86SE-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-3" source="rvxUXU9-gEQZc84r86SE-29" target="rvxUXU9-gEQZc84r86SE-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-29" value="Solicitar ao PLM entrega do anel BX em estoque" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
+        <mxCell id="rvxUXU9-gEQZc84r86SE-29" value="Solicitar ao PLM entrega do anel BX em estoque (sobra ou switch)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
           <mxGeometry x="660" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-3" source="rvxUXU9-gEQZc84r86SE-31" target="rvxUXU9-gEQZc84r86SE-29">
@@ -205,14 +216,14 @@
         <mxCell id="rvxUXU9-gEQZc84r86SE-36" value="Solicitar compra do anel BX" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
           <mxGeometry x="660" y="130" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-89" value="Compra de novo anel para reposição" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#A6A61D;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
+        <mxCell id="rvxUXU9-gEQZc84r86SE-89" value="Caso necessário compra de novo anel para reposição" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFCC;strokeColor=#A6A61D;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
           <mxGeometry x="820" y="10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-95" value="reposição finalizada no estoque do PLM&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-3">
           <mxGeometry x="1030" y="50" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="REOEvnUnP1cKmhOiyPTP-4" value="COMPRAS" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;" parent="REOEvnUnP1cKmhOiyPTP-1" vertex="1">
-          <mxGeometry x="20" y="690" width="2340" height="160" as="geometry">
+        <mxCell id="REOEvnUnP1cKmhOiyPTP-4" value="CDMB" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;" parent="REOEvnUnP1cKmhOiyPTP-1" vertex="1">
+          <mxGeometry x="20" y="692" width="2340" height="160" as="geometry">
             <mxRectangle x="20" y="200" width="880" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -220,7 +231,7 @@
           <mxGeometry x="660" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3ngB4kAbQusvfdiSP5Xu-5" value="FORNECEDOR" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;" parent="REOEvnUnP1cKmhOiyPTP-1" vertex="1">
-          <mxGeometry x="20" y="850" width="2340" height="140" as="geometry">
+          <mxGeometry x="20" y="852" width="2340" height="140" as="geometry">
             <mxRectangle x="20" y="330" width="780" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -240,7 +251,7 @@
           <mxGeometry x="920" y="45" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-39" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;" vertex="1" parent="REOEvnUnP1cKmhOiyPTP-1">
-          <mxGeometry x="20" y="990" width="2340" height="220" as="geometry">
+          <mxGeometry x="20" y="992" width="2340" height="220" as="geometry">
             <mxRectangle x="20" y="330" width="780" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -270,8 +281,10 @@
             <mxPoint x="680" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvxUXU9-gEQZc84r86SE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-1" source="rvxUXU9-gEQZc84r86SE-46" target="rvxUXU9-gEQZc84r86SE-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rvxUXU9-gEQZc84r86SE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-1" source="rvxUXU9-gEQZc84r86SE-46" target="rvxUXU9-gEQZc84r86SE-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rvxUXU9-gEQZc84r86SE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="REOEvnUnP1cKmhOiyPTP-1" source="rvxUXU9-gEQZc84r86SE-35" target="rvxUXU9-gEQZc84r86SE-43">
           <mxGeometry relative="1" as="geometry" />
